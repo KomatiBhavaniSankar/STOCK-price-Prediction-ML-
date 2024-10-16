@@ -3,6 +3,8 @@ Project Title: Stock Price Prediction Using Machine Learning
 Description:
 This project aims to predict stock prices using machine learning techniques, providing users with insights into future stock trends. The model leverages historical stock data to make predictions, employing advanced deep learning models. The application enables real-time prediction and data visualization, offering an intuitive interface for users.
 
+DEMO LINK : https://drive.google.com/file/d/1ceq-xLXohI_8InxTxWr8F_8nG1vov8rh/view?usp=sharing
+
 Technologies Used:
 
 TensorFlow: For building and training the machine learning model, particularly using LSTMs for time series forecasting.
